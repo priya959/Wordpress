@@ -13,12 +13,12 @@ Docker-compose also must be installed on your machine.
 
 You can also check the installed versions by :
 
-docker --version
+docker --version 
 docker-compose --version
 
 ## create a new directory wordpress :
 
-cd Desktop
+cd Desktop 
 mkdir wordpress
 
 link - https://github.com/priya959/Wordpress/blob/master/docker-compose.yaml
