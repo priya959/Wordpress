@@ -3,9 +3,9 @@
 ## Introduction
 WordPress is a hosted software-as-a-service (SaaS) platform that lets you build a website using WordPress building blocks.
 
-## Getting Started-
+# Getting Started-
 
-# Installation using docker
+## Installation using docker
 ## prerequisite:
 
 Docker must be install on your machine.
