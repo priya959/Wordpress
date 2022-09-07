@@ -17,8 +17,9 @@ You can also check the installed versions by :
 docker --version 
 docker-compose --version
 ```
-#Start the Service
-##Two ways to run 
+
+# Start the Service
+## Two ways to run 
 ## 1 way by using github
 ## create a new directory wordpress :
 ```bash
