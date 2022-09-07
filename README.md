@@ -35,7 +35,6 @@ we can also verify the docker containers are up and running :
 
 docker ps
 open a browser write localhost:8000 for wordpress 
-
+![wordprss!]{wordpress.png}
 open a browser write localhost:8080 for phpadmin 
-
-
+![phpadmin!]{phpadmin.png}
